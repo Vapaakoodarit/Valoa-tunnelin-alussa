@@ -1,4 +1,6 @@
 Valoa-tunnelin-alussa
 =====================
 
-Koodista voi oppia elämää 
+Koodista voi oppia elämää
+
+Ja moikka
