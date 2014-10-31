@@ -1,1 +1,0 @@
-lataa ja asenna ilmainen atlassian sourcetree githubin käyttöä varten. ei kukaan käytä shelliä!
